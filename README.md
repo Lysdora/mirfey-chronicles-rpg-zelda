@@ -2,7 +2,11 @@
 
 Bienvenue sur le dépôt de mon projet RPG Zelda-like développé avec Godot 4.4 ! 🎮
 
+🔗 **Voir le site GitHub Pages : [Mirfey Chronicles RPG Zelda](https://lysdora.github.io/mirfey-chronicles-rpg-zelda/)**
+
 ---
+
+
 
 ## 📂 Sommaire des Articles
 
