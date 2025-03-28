@@ -4,6 +4,12 @@ Un jeu d'aventure en développement avec **Godot 4.4**. 🌟
 
 ---
 
+## 📂 Sommaire des Articles
+
+- [🦦 La Taupe Rouge Grognon](./articles/mole-enemy.md)
+
+---
+
 ## 🌍 **Lore du jeu**
 
 Dans le monde mystérieux d'Orano, les forêts anciennes et les ruines oubliées cachent de puissants artefacts.  
