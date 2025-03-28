@@ -120,4 +120,4 @@ func animation_player():
 
 ---
 
-🎉 **Bravo ! Tu as créé ta Taupe Rouge Grognon qui patrouille entre deux points.** Tu veux maintenant ajouter une logique pour qu'elle attaque Elara si elle s'approche trop près ? 😈🔥
+🎉 **Bravo ! Tu as créé ta Taupe Rouge Grognon qui patrouille entre deux points.** 
