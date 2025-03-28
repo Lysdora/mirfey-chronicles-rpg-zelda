@@ -6,7 +6,7 @@ Un jeu d'aventure en développement avec **Godot 4.4**. 🌟
 
 ## 📂 Sommaire des Articles
 
-- [🦦 La Taupe Rouge Grognon](./articles/mole-enemy.md)
+- [🦦 La Taupe Rouge Grognon](./articles/mole_enemy.md)
 
 ---
 
