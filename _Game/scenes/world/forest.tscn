@@ -1,0 +1,18 @@
+[gd_scene load_steps=3 format=3 uid="uid://ctx62j57rkwof"]
+
+[ext_resource type="PackedScene" uid="uid://ck8uy2cq3i5vg" path="res://_Game/scenes/player/player.tscn" id="1_1kpfn"]
+[ext_resource type="PackedScene" uid="uid://cck101udfnudm" path="res://_Game/scenes/monsters/mole.tscn" id="1_7etu7"]
+
+[node name="Forest" type="Node2D"]
+
+[node name="Mole" parent="." instance=ExtResource("1_7etu7")]
+position = Vector2(211, 65)
+vitesse = 15.0
+
+[node name="Marker_B" type="Marker2D" parent="Mole"]
+position = Vector2(-191, 0)
+
+[node name="Marker_A" type="Marker2D" parent="Mole"]
+
+[node name="Player" parent="." instance=ExtResource("1_1kpfn")]
+position = Vector2(119, 21)
