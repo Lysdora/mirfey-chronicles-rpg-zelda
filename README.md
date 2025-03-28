@@ -1,12 +1,17 @@
-# 🌌 **MonRPG : Les Chroniques de Mirfey**
+# 🌌 Mirfey Chronicles RPG Zelda
 
-Un jeu d'aventure en développement avec **Godot 4.4**. 🌟
+Bienvenue sur le dépôt de mon projet RPG Zelda-like développé avec Godot 4.4 ! 🎮
 
 ---
 
 ## 📂 Sommaire des Articles
 
-- [🦦 La Taupe Rouge Grognon](./articles/mole_enemy.md)
+### 📜 Lore
+- [🦦 Lore de la Taupe Rouge Grognon](./articles/lore_taupe_rouge.md)
+
+### 📝 Guides de Conception
+- [📄 Ennemi : Taupe Rouge (Mole Enemy)](./articles/mole_enemy.md)
+
 
 ---
 
