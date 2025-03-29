@@ -1,3 +1,5 @@
-title: Mirfey Chronicles - RPG Zelda
-description: Un RPG mignon et doux inspiré de Zelda
-theme: jekyll-theme-cayman  # Tu peux changer le thème ici !
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Journal de développement - Mon RPG Zelda
+description: Suivi du développement de mon jeu de type Zelda avec Godot Engine
