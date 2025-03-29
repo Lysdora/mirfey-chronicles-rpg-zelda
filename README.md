@@ -17,7 +17,8 @@ Bienvenue sur le dépôt de mon projet RPG Zelda-like développé avec Godot 4.4
 - [📄 Ennemi : Taupe Rouge (Mole Enemy)](./articles/mole_enemy.md)
 - [🔥 Système de dégâts simple pour ton RPG style Zelda](./articles/damage_implementation_detailed.md)
 - [💥 Implémentation du Système de Dégâts & HUD](./articles/damage_implementation_with_hud.md)
-- [⚔️ Implémenter l’Attaque d’Elara (Avec HurtyBox & AnimationPlayer)](./articles/elara_attack_with_animationplayer.md)
+
+
 ---
 
 ## 🌍 **Lore du jeu**
