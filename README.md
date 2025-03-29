@@ -16,7 +16,7 @@ Bienvenue sur le dépôt de mon projet RPG Zelda-like développé avec Godot 4.4
 ### 📝 Guides de Conception
 - [📄 Ennemi : Taupe Rouge (Mole Enemy)](./articles/mole_enemy.md)
 - [💥 Implémentation du Système de Dégâts & HUD](./articles/damage_implementation_with_hud.md)
-
+- [🌟 Créer une scène d'intro avec texte et animation fade-out](./articles/lecon_scene_intro_fadeout.md)
 
 ---
 
