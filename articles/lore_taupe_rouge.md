@@ -4,7 +4,8 @@
 
 Voici l'apparence de la Taupe Rouge Grognon :
 
-![Taupe Rouge Grognon](/images/taupe-rouge.png)
+![Taupe Rouge Grognon](../images/taupe-rouge.png)
+
 
 ---
 
